@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/fb/99/de/fb99de604773a4d93ea1951003e6ebe8.gif" width="198" height="198"/>
 </p>
 <p align="center">
-<a href="#"><img title="TakamuraBOT" src="https://img.shields.io/badge/TakamuraBOT-red?colorB=FF33D4&style=for-the-badge"></a>
+<a href="#"><img title="TakamuraBOT" src="https://img.shields.io/badge/TakamuraBOT-red?colorB=00FF00&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TakamuraSenpai"><img title="Criador" src="https://img.shields.io/badge/Criador-Dev Takamura-red.svg?style=for-the-badge&logo=github"></a>
