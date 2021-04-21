@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/fb/99/de/fb99de604773a4d93ea1951003e6ebe8.gif" width="198" height="198"/>
 </p>
 <p align="center">
-<a href="#"><img title="SabrinaBOT" src="https://img.shields.io/badge/SabrinaBOT-pink?colorB=FF33D4&style=for-the-badge"></a>
+<a href="#"><img title="TakamuraBOT" src="https://img.shields.io/badge/SabrinaBOT-red?colorB=FF33D4&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TakamuraSenpai"><img title="Criador" src="https://img.shields.io/badge/Criador-Dev Takamura-red.svg?style=for-the-badge&logo=github"></a>
@@ -157,7 +157,7 @@ você acabou de clonar !!
 ║	┣    🐉   ➥   Level Baianor                      
 ├──────────────────────────────────────────────────────────────├
 ## Agradecimentos
-* <a href="https://github.com/DevGaaab/SabrinaBOT"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/DevGaaab/SabrinaBOT"><img alt="GitHub" src="https://img.shields.io/badge/DevGab%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Grupo no whatsapp
 * <a href="*https://google.com.br*"><img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20Do%20Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
